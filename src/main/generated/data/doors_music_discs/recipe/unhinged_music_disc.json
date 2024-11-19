@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:book",
+    "F": "minecraft:rotten_flesh",
+    "P": "minecraft:bone",
+    "R": "doors_music_discs:resonator"
+  },
+  "pattern": [
+    "PBP",
+    "FRF",
+    "PBP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "doors_music_discs:unhinged_music_disc"
+  }
+}

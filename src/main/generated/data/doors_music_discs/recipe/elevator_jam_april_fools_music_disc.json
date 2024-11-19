@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "doors_music_discs:elevator_jam_music_disc",
+    "#minecraft:noteblock_top_instruments",
+    "doors_music_discs:instrument_shuffler"
+  ],
+  "result": {
+    "count": 1,
+    "id": "doors_music_discs:elevator_jam_april_fools_music_disc"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "doors_music_discs:jeffs_jingle_music_disc",
+    "minecraft:water_bucket",
+    "#minecraft:planks",
+    "#minecraft:buttons",
+    "minecraft:redstone",
+    "minecraft:gold_nugget",
+    "doors_music_discs:instrument_shuffler"
+  ],
+  "result": {
+    "count": 1,
+    "id": "doors_music_discs:jeffs_jam_music_disc"
+  }
+}

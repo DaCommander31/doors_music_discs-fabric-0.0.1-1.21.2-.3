@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:note_block",
+    "minecraft:sand",
+    "#minecraft:planks",
+    "minecraft:glass",
+    "#minecraft:stone_crafting_materials",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "count": 1,
+    "id": "doors_music_discs:instrument_shuffler"
+  }
+}

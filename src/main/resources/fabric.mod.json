@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "doors_music_discs",
+	"version": "${version}",
+	"name": "Roblox Doors Music Discs",
+	"description": "All the Roblox Doors OSTs as playable music discs!",
+	"authors": [
+		"DaCommander31"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/roblox-doors-music-discs/"
+	},
+	"license": "MIT",
+	"icon": "assets/doors_music_discs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dacommander31.doors_music_discs.RobloxDoorsMusicDiscs"
+		],
+		"fabric-datagen": [
+			"net.dacommander31.doors_music_discs.RobloxDoorsMusicDiscsDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": ">=1.21.2 <=1.21.3",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
